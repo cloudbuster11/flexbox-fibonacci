@@ -35,50 +35,50 @@ p {
 
 .nr__0 {
   background-color: #640100;
-  width: 3%;
+  flex-grow: 0;
 }
 
 .nr__1 {
   background-color: #641600;
-  width: 4%;
+  flex-grow: 1;
 }
 
 .nr__1_1 {
   background-color: #642900;
-  width: 4%;
+  flex-grow: 1;
 }
 
 .nr__2 {
   background-color: #633c01;
-  width: 5%;
+  flex-grow: 2;
 }
 
 .nr__3 {
   background-color: #6d5a18;
-  width: 6%;
+  flex-grow: 3;
 }
 
 .nr__5 {
   background-color: #646401;
-  width: 9%;
+  flex-grow: 5;
 }
 
 .nr__8 {
   background-color: #647801;
-  width: 11%;
+  flex-grow: 8;
 }
 
 .nr__13 {
   background-color: #648d00;
-  width: 14%;
+  flex-grow: 13;
 }
 
 .nr__21 {
   background-color: #64a102;
-  width: 20%;
+  flex-grow: 21;
 }
 
 .nr__34 {
   background-color: #63b401;
-  width: 25%;
+  flex-grow: 34;
 }
